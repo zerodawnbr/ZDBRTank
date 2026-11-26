@@ -1,5 +1,9 @@
 # ZDBRTank
 
+![DayZ](https://img.shields.io/badge/DayZ-Standalone-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
+![Author](https://img.shields.io/badge/ZeroDawnBR-CoreTools-red?style=flat-square)
+
 Mod independente para **DayZ** desenvolvido para a comunidade **ZeroDawnBR** que permite reabastecer recipientes de **combustível**, **gás** e **água** diretamente nas válvulas das extremidades ou escotilhas superiores de tanques estáticos e vagões-tanque espalhados pelo mapa.
 
 <img src="https://github.com/zerodawnbr/ZDBRTank/blob/main/imgs/zdbrtank.png">
